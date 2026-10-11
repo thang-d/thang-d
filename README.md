@@ -20,7 +20,7 @@ I'm a full-stack developer who has turned his passion into a full-time career. I
 
 - 🔭 I’m currently working as a Full-stack developer
 - 💬 Ask me about things you want to know
-- 👨‍💻 All of my projects are available at [thangle.dev](https://thangle.dev) 
+- 👨‍💻 All of my projects are available at [thangle.dev](https://www.thangle.dev) 
 - 📫 How to reach me at email: hi@thangle.dev
 
 
